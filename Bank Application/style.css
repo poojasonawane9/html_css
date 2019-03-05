@@ -1,0 +1,15 @@
+.navbar > li{
+    padding-left: 20px;
+    color: white;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+.layout{
+    background-color:antiquewhite;
+    padding:20px;
+    margin-top: 70px;
+}
+a:active{
+    background-color: white;
+}
